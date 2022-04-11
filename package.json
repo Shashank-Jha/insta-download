@@ -1,0 +1,20 @@
+{
+  "name": "InstaImg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "image-clipper": "^0.4.4",
+    "minimist": "^1.2.5",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.4.0",
+    "sharp": "^0.29.2"
+  }
+}
